@@ -1,0 +1,312 @@
+[
+  {
+    "payload_bytes": 17,
+    "redelivered": true,
+    "exchange": "some",
+    "routing_key": "error",
+    "message_count": 318,
+    "properties": {
+      "delivery_mode": 2,
+      "headers": {
+        "job_id": "6f6b56b8-1c63-47ab-8d47-083d21ee9ba0",
+        "retry_number": 4,
+        "x-death": [
+          {
+            "count": 1,
+            "exchange": "some",
+            "queue": "some.retry.512000",
+            "reason": "expired",
+            "routing-keys": [
+              "retry.512000"
+            ],
+            "time": 1638873016
+          },
+          {
+            "count": 1,
+            "exchange": "some",
+            "queue": "some.retry.8000",
+            "reason": "expired",
+            "routing-keys": [
+              "retry.8000"
+            ],
+            "time": 1638872440
+          },
+          {
+            "count": 1,
+            "exchange": "some",
+            "queue": "some.retry.1000",
+            "reason": "expired",
+            "routing-keys": [
+              "retry.1000"
+            ],
+            "time": 1638872431
+          },
+          {
+            "count": 1,
+            "exchange": "some",
+            "queue": "some.retry.64000",
+            "reason": "expired",
+            "routing-keys": [
+              "retry.64000"
+            ],
+            "time": 1638872504
+          }
+        ],
+        "x-first-death-exchange": "some",
+        "x-first-death-queue": "some.retry.1000",
+        "x-first-death-reason": "expired"
+      },
+      "content_type": "application/json"
+    },
+    "payload": "{\"id\":20}",
+    "payload_encoding": "string"
+  },
+  {
+    "payload_bytes": 18,
+    "redelivered": true,
+    "exchange": "some",
+    "routing_key": "error",
+    "message_count": 317,
+    "properties": {
+      "delivery_mode": 2,
+      "headers": {
+        "job_id": "16f529ca-b8ae-4805-b17d-2edee301fbcd",
+        "retry_number": 4,
+        "x-death": [
+          {
+            "count": 1,
+            "exchange": "some",
+            "queue": "some.retry.512000",
+            "reason": "expired",
+            "routing-keys": [
+              "retry.512000"
+            ],
+            "time": 1638874282
+          },
+          {
+            "count": 1,
+            "exchange": "some",
+            "queue": "some.retry.8000",
+            "reason": "expired",
+            "routing-keys": [
+              "retry.8000"
+            ],
+            "time": 1638873705
+          },
+          {
+            "count": 1,
+            "exchange": "some",
+            "queue": "some.retry.1000",
+            "reason": "expired",
+            "routing-keys": [
+              "retry.1000"
+            ],
+            "time": 1638873697
+          },
+          {
+            "count": 1,
+            "exchange": "some",
+            "queue": "some.retry.64000",
+            "reason": "expired",
+            "routing-keys": [
+              "retry.64000"
+            ],
+            "time": 1638873770
+          }
+        ],
+        "x-first-death-exchange": "some",
+        "x-first-death-queue": "some.retry.1000",
+        "x-first-death-reason": "expired"
+      },
+      "content_type": "application/json"
+    },
+    "payload": "{\"id\":114}",
+    "payload_encoding": "string"
+  },
+  {
+    "payload_bytes": 18,
+    "redelivered": true,
+    "exchange": "some",
+    "routing_key": "error",
+    "message_count": 316,
+    "properties": {
+      "delivery_mode": 2,
+      "headers": {
+        "job_id": "96a9f39f-1216-4c47-8ece-8c823a7e97b3",
+        "retry_number": 4,
+        "x-death": [
+          {
+            "count": 1,
+            "exchange": "some",
+            "queue": "some.retry.512000",
+            "reason": "expired",
+            "routing-keys": [
+              "retry.512000"
+            ],
+            "time": 1638874361
+          },
+          {
+            "count": 1,
+            "exchange": "some",
+            "queue": "some.retry.8000",
+            "reason": "expired",
+            "routing-keys": [
+              "retry.8000"
+            ],
+            "time": 1638873785
+          },
+          {
+            "count": 1,
+            "exchange": "some",
+            "queue": "some.retry.1000",
+            "reason": "expired",
+            "routing-keys": [
+              "retry.1000"
+            ],
+            "time": 1638873777
+          },
+          {
+            "count": 1,
+            "exchange": "some",
+            "queue": "some.retry.64000",
+            "reason": "expired",
+            "routing-keys": [
+              "retry.64000"
+            ],
+            "time": 1638873849
+          }
+        ],
+        "x-first-death-exchange": "some",
+        "x-first-death-queue": "some.retry.1000",
+        "x-first-death-reason": "expired"
+      },
+      "content_type": "application/json"
+    },
+    "payload": "{\"id\":115}",
+    "payload_encoding": "string"
+  },
+  {
+    "payload_bytes": 18,
+    "redelivered": true,
+    "exchange": "some",
+    "routing_key": "error",
+    "message_count": 315,
+    "properties": {
+      "delivery_mode": 2,
+      "headers": {
+        "job_id": "1aee2ee6-66f9-410e-8850-05ed942fead3",
+        "retry_number": 4,
+        "x-death": [
+          {
+            "count": 1,
+            "exchange": "some",
+            "queue": "some.retry.512000",
+            "reason": "expired",
+            "routing-keys": [
+              "retry.512000"
+            ],
+            "time": 1638874924
+          },
+          {
+            "count": 1,
+            "exchange": "some",
+            "queue": "some.retry.8000",
+            "reason": "expired",
+            "routing-keys": [
+              "retry.8000"
+            ],
+            "time": 1638874348
+          },
+          {
+            "count": 1,
+            "exchange": "some",
+            "queue": "some.retry.1000",
+            "reason": "expired",
+            "routing-keys": [
+              "retry.1000"
+            ],
+            "time": 1638874340
+          },
+          {
+            "count": 1,
+            "exchange": "some",
+            "queue": "some.retry.64000",
+            "reason": "expired",
+            "routing-keys": [
+              "retry.64000"
+            ],
+            "time": 1638874412
+          }
+        ],
+        "x-first-death-exchange": "some",
+        "x-first-death-queue": "some.retry.1000",
+        "x-first-death-reason": "expired"
+      },
+      "content_type": "application/json"
+    },
+    "payload": "{\"id\":116}",
+    "payload_encoding": "string"
+  },
+  {
+    "payload_bytes": 17,
+    "redelivered": true,
+    "exchange": "some",
+    "routing_key": "error",
+    "message_count": 314,
+    "properties": {
+      "delivery_mode": 2,
+      "headers": {
+        "job_id": "54d76a1c-e316-43ab-87b1-6b57d0d843ee",
+        "retry_number": 4,
+        "x-death": [
+          {
+            "count": 1,
+            "exchange": "some",
+            "queue": "some.retry.512000",
+            "reason": "expired",
+            "routing-keys": [
+              "retry.512000"
+            ],
+            "time": 1638875070
+          },
+          {
+            "count": 1,
+            "exchange": "some",
+            "queue": "some.retry.8000",
+            "reason": "expired",
+            "routing-keys": [
+              "retry.8000"
+            ],
+            "time": 1638874494
+          },
+          {
+            "count": 1,
+            "exchange": "some",
+            "queue": "some.retry.1000",
+            "reason": "expired",
+            "routing-keys": [
+              "retry.1000"
+            ],
+            "time": 1638874486
+          },
+          {
+            "count": 1,
+            "exchange": "some",
+            "queue": "some.retry.64000",
+            "reason": "expired",
+            "routing-keys": [
+              "retry.64000"
+            ],
+            "time": 1638874558
+          }
+        ],
+        "x-first-death-exchange": "some",
+        "x-first-death-queue": "some.retry.1000",
+        "x-first-death-reason": "expired"
+      },
+      "content_type": "application/json"
+    },
+    "payload": "{\"id\":19}",
+    "payload_encoding": "string"
+  }
+]
